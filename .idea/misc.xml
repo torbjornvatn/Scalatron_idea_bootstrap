@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="0C1C0F8681A6BBC140FF826D4524BF3D" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option value="protected" name="OPTION_SCOPE" />
+    <option value="true" name="OPTION_HIERARCHY" />
+    <option value="true" name="OPTION_NAVIGATOR" />
+    <option value="true" name="OPTION_INDEX" />
+    <option value="true" name="OPTION_SEPARATE_INDEX" />
+    <option value="false" name="OPTION_DOCUMENT_TAG_USE" />
+    <option value="false" name="OPTION_DOCUMENT_TAG_AUTHOR" />
+    <option value="false" name="OPTION_DOCUMENT_TAG_VERSION" />
+    <option value="true" name="OPTION_DOCUMENT_TAG_DEPRECATED" />
+    <option value="true" name="OPTION_DEPRECATED_LIST" />
+    <option value="" name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option value="true" name="OPEN_IN_BROWSER" />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectResources">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component maxAnnotateRevisions="500" name="SvnConfiguration">
+    <option value="" name="USER" />
+    <option value="" name="PASSWORD" />
+    <option value="30000" name="mySSHConnectionTimeout" />
+    <option value="30000" name="mySSHReadTimeout" />
+    <option name="LAST_MERGED_REVISION" />
+    <option value="false" name="MERGE_DRY_RUN" />
+    <option value="true" name="MERGE_DIFF_USE_ANCESTRY" />
+    <option value="false" name="UPDATE_LOCK_ON_DEMAND" />
+    <option value="false" name="IGNORE_SPACES_IN_MERGE" />
+    <option value="true" name="DETECT_NESTED_COPIES" />
+    <option value="false" name="CHECK_NESTED_FOR_QUICK_MERGE" />
+    <option value="true" name="IGNORE_SPACES_IN_ANNOTATE" />
+    <option value="true" name="SHOW_MERGE_SOURCES_IN_ANNOTATE" />
+    <option value="false" name="FORCE_UPDATE" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="VssConfiguration">
+    <option value="" name="CLIENT_PATH" />
+    <option value="" name="SRCSAFEINI_PATH" />
+    <option value="" name="USER_NAME" />
+    <option value="" name="PWD" />
+    <CheckoutOptions>
+      <option value="" name="COMMENT" />
+      <option value="false" name="DO_NOT_GET_LATEST_VERSION" />
+      <option value="false" name="REPLACE_WRITABLE" />
+      <option value="false" name="RECURSIVE" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option value="" name="COMMENT" />
+      <option value="false" name="KEEP_CHECKED_OUT" />
+      <option value="false" name="RECURSIVE" />
+    </CheckinOptions>
+    <AddOptions>
+      <option value="false" name="STORE_ONLY_LATEST_VERSION" />
+      <option value="false" name="CHECK_OUT_IMMEDIATELY" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option value="false" name="MAKE_WRITABLE" />
+      <option value="2" name="REPLACE_LOCAL_COPY" />
+      <option value="false" name="RECURSIVE" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option value="0" name="REPLACE_WRITABLE" />
+      <option value="false" name="MAKE_WRITABLE" />
+      <option value="false" name="ANSWER_NEGATIVELY" />
+      <option value="false" name="ANSWER_POSITIVELY" />
+      <option value="false" name="RECURSIVE" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
+
